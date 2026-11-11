@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\bin\Debug\net10.0\LaundryPro.exe
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\bin\Debug\net10.0\LaundryPro.deps.json
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\bin\Debug\net10.0\LaundryPro.runtimeconfig.json
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\bin\Debug\net10.0\LaundryPro.dll
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\bin\Debug\net10.0\LaundryPro.pdb
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\obj\Debug\net10.0\LaundryPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\obj\Debug\net10.0\LaundryPro.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\obj\Debug\net10.0\LaundryPro.AssemblyInfo.cs
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\obj\Debug\net10.0\LaundryPro.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\obj\Debug\net10.0\LaundryPro.dll
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\obj\Debug\net10.0\refint\LaundryPro.dll
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\obj\Debug\net10.0\LaundryPro.pdb
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\obj\Debug\net10.0\LaundryPro.genruntimeconfig.cache
+C:\Users\user\Downloads\LaundryPro-Project\LaundryPro-Project\2_Code\LaundryPro\obj\Debug\net10.0\ref\LaundryPro.dll
