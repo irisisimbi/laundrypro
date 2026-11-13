@@ -90,41 +90,41 @@ dotnet run
 
 ### 6.1 Main Menu
 
-![LaundryPro Main Menu](../../screenshots/mainmenu.png)
+![LaundryPro Main Menu](./screenshots/mainmenu.png)
 
-[Click here to view the Main Menu Screenshot](../../screenshots/mainmenu.png)
+[Click here to view the Main Menu Screenshot](./screenshots/mainmenu.png)
 
 ---
 
 ### 6.2 New Order and Receipt
 
-![LaundryPro New Order and Receipt](../../screenshots/neworder.png)
+![LaundryPro New Order and Receipt](./screenshots/neworder.png)
 
-[Click here to view the New Order Screenshot](../../screenshots/neworder.png)
+[Click here to view the New Order Screenshot](./screenshots/neworder.png)
 
 ---
 
 ### 6.3 All Orders
 
-![LaundryPro All Orders](../../screenshots/showallorders.png)
+![LaundryPro All Orders](./screenshots/showallorders.png)
 
-[Click here to view the All Orders Screenshot](../../screenshots/showallorders.png)
+[Click here to view the All Orders Screenshot](./screenshots/showallorders.png)
 
 ---
 
 ### 6.4 Cancel Order
 
-![LaundryPro Cancel Order](../../screenshots/cancelorder.png)
+![LaundryPro Cancel Order](./screenshots/cancelorder.png)
 
-[Click here to view the Cancel Order Screenshot](../../screenshots/cancelorder.png)
+[Click here to view the Cancel Order Screenshot](./screenshots/cancelorder.png)
 
 ---
 
 ### 6.5 Daily Summary
 
-![LaundryPro Daily Summary](../../screenshots/dailysummary.png)
+![LaundryPro Daily Summary](./screenshots/dailysummary.png)
 
-[Click here to view the Daily Summary Screenshot](../../screenshots/dailysummary.png)
+[Click here to view the Daily Summary Screenshot](./screenshots/dailysummary.png)
 
 ---
 
